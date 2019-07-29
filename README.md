@@ -106,3 +106,8 @@ de les respostes a la pregunta donada.
 - ```/pie <idPregunta>``` el Bot ha de tornar una gràfica de formatget amb el percentatge de les respostes a la pregunta
 donada. 
 - ```/report``` el Bot ha de tornar quelcom tipus taula amb el nombre de respostes obtingudes per cada valor de cada pregunta.
+
+
+## Lliurament
+
+## Referències
