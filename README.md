@@ -134,7 +134,7 @@ E> Gràcies pel teu temps!
 ```
 A telegram tindria el format següent:
 
-<center><img src='interpret.png' width='600'></center>
+<center><img src='interpret.png' width='700'></center>
 
 Les respostes s’han de guardar en una estructura python3 que heu de dis-
 senyar vosaltres. Utilitzeu el `pickle` de python per a que aquesta estructura estigui sempre
@@ -152,14 +152,21 @@ Si tenim per a la pregunta _P3_ les dades:
 
 La comanda `/pie P3` ens donarà quelcom com:
 
-<center><img src='pie.png' width='600'></center>
+<center><img src='pie.png' width='700'></center>
+
+Fixeu-vos en que cada porció del formatget conté percentatges.
 
 La comanda `/bar P3` ens donarà quelcom com:
 
-<center><img src='bar.png' width='600'></center>
+<center><img src='bar.png' width='700'></center>
 
+Fixeu-vos en que cada barra conté el nombre d'enquestes que l'han votat.
 
 ### Report
+
+La comanda `/report` ens ha de mostrar el nombre d'enquestes que han votat a cada valor de cada producte. A continuació teniu un exemple de com es veuria a _telegram_:
+
+<center><img src='report.png' width='700'></center>
 
 ## Llibreries
 
