@@ -83,6 +83,10 @@ A la gràfica les arestes negres corresponen a la seqüència de preguntes de l'
 
 ## Telegram
 
+La vostra tasca consisteix en implementar un Bot de Telegram que constesti
+textualment i gràficament a preguntes relacionades amb les enquestes descrites
+a la secció anterior.
+
 ### Intèrpret 
 
 ### Gràfiques i report
