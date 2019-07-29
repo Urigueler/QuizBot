@@ -66,3 +66,11 @@ que ANTLR4 pugui reconèixer-la. La regla inicial de la gramàtica és:
 grammar Enquestes;
 ```
 
+### AST a graf
+
+Feu un script python3 que:
+1. recorri l'AST mitjançant un _visitor_,
+2. guardi l'estructura en un graf i,
+3. generi una imatge amb la representació del graf.
+
+A continuació teniu un exemple de com quedaria l'exemple anterior utilitzant la llibreria _networkx_:
