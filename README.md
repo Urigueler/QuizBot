@@ -75,4 +75,4 @@ Feu un script python3 que:
 
 A continuació teniu un exemple de com quedaria l'exemple anterior utilitzant la llibreria _networkx_:
 
-<center><img src='graf.png' width='400'></center>
+<center><img src='graf.png' width='600'></center>
