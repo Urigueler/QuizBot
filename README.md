@@ -70,8 +70,9 @@ grammar Enquestes;
 
 Feu un script python3 que:
 1. recorri l'AST mitjançant un _visitor_,
-2. guardi l'estructura en un graf i,
-3. generi una imatge amb la representació del graf.
+2. guardi l'estructura en un graf,
+3. guardi el graf en un arxiu tipus _pickle_, i
+4. generi una imatge amb la representació del graf.
 
 A continuació teniu un exemple de com quedaria l'exemple anterior utilitzant la llibreria _networkx_:
 
