@@ -142,6 +142,22 @@ actualitzada en les múltiples execucions del bot.
 
 ### Gràfiques
 
+Si tenim per a la pregunta _P3_ les dades:
+
+*valor* | *contats*
+--- | ---
+1 | 5
+2 | 1
+3 | 6
+
+La comanda `/pie P3` ens donarà quelcom com:
+
+<center><img src='pie.png' width='600'></center>
+
+La comanda `/bar P3` ens donarà quelcom com:
+
+<center><img src='bar.png' width='600'></center>
+
 
 ### Report
 
