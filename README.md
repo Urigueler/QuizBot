@@ -136,10 +136,40 @@ A telegram tindria el format següent:
 
 <center><img src='interpret.png' width='600'></center>
 
-### Gràfiques i report
+Les respostes s’han de guardar en una estructura python3 que heu de dis-
+senyar vosaltres. Utilitzeu el `pickle` de python per a que aquesta estructura estigui sempre
+actualitzada en les múltiples execucions del bot.
+
+### Gràfiques
+
+
+### Report
 
 ## Llibreries
 
 ## Referències
 
+- pickle — Python object serialization. Python Software Foundation. 2019.
+https://docs.python.org/3.6/library/pickle.html
+- Bots de Telegram. Jordi Petit. 2019.
+https://lliçons.jutge.org/python/telegram.html
+
 ## Lliurament
+
+Heu de lliurar la vostra pràctica al Racó. Només heu de lliurar un fitxer ZIP
+que, al descomprimir-se generi uns fitxers *.py, un fitxer requirements.txt i un
+fitxer README.md. Res més. Sense directoris. — pendent —
+Els vostres fitxers de codi en Python han de seguir les regles d’estı́l PEP8,
+tot i que podeu oblidar les restriccions sobre la llargada màxima de les lı́nies.
+Podeu utilitzar el paquet pep8 o http://pep8online.com/ per assegurar-vos
+que seguiu aquestes regles d’estı́l. L’ús de tabuladors en el codi queda prohibit
+(zero directe).
+
+El projecte ha de contenir un fitxer README.md que el documenti. Vegeu,
+per exemple, https://gist.github.com/PurpleBooth/109311bb0361f32d87a2.
+
+El projecte també ha de contenir un fitxer requirements.txt amb les llibreries
+que utilitza el vostre projecte. Vegeu, per exemple, https://pip.pypa.io/en/
+stable/user_guide/#requirements-files.
+
+El termini de lliurament és el divendres 7 de juny a les 23:59. *pendent*
