@@ -134,6 +134,7 @@ E> Gràcies pel teu temps!
 ```
 A telegram tindria el format següent:
 
+<center><img src='interpret.png' width='600'></center>
 
 ### Gràfiques i report
 
