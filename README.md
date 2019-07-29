@@ -64,6 +64,7 @@ Definiu la part lèxica (tokens) i sintàctica (gramàtica). Feu la gramàtica p
 que ANTLR4 pugui reconèixer-la. La regla inicial de la gramàtica és:
 ```
 grammar Enquestes;
+...
 ```
 
 ### AST a graf
@@ -80,4 +81,9 @@ A continuació teniu un exemple de com quedaria l'exemple anterior utilitzant la
 
 ## Telegram
 
-_falta informació de l'intèrpret_ 
+### Intèrpret 
+
+### Gràfiques i report
+
+### Comandes del bot
+
