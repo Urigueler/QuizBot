@@ -207,4 +207,4 @@ per exemple, https://gist.github.com/PurpleBooth/109311bb0361f32d87a2.
 El projecte també ha de contenir un fitxer requirements.txt amb les llibreries
 que utilitza el vostre projecte. Vegeu, per exemple, https://pip.pypa.io/en/stable/user_guide/#requirements-files.
 
-El termini de lliurament és el divendres 7 de juny a les 23:59.  ??????
+El termini de lliurament és el dijous 9 de gener a les 23:59.
