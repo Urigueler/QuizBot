@@ -108,6 +108,8 @@ donada.
 - ```/report``` el Bot ha de tornar quelcom tipus taula amb el nombre de respostes obtingudes per cada valor de cada pregunta.
 
 
-## Lliurament
+## Llibreries
 
 ## Referències
+
+## Lliurament
