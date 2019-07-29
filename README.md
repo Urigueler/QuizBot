@@ -93,3 +93,17 @@ a la secció anterior.
 
 ### Comandes del bot
 
+El vostre Bot ha d’entendre i contestar correctament les comandes següents:
+- ```/start``` Inicia la conversa amb el Bot.
+- /help El Bot ha de contestar amb una llista de totes les possibles comandes i
+una breu documentació sobre el seu propòsit i ús.
+/author El Bot ha d’escriure el nom complet de l’autor del projecte i seu correu
+electrònic oficial de la facultat.
+/quiz <idEnquesta> El Bot ha de iniciar un intèrpret similar al de la secció anterior realitzant
+l’enquesta.
+/barplot <idItem> El Bot ha de tornar una gràfica de barres mostrant un diagrama de barres
+de les respostes a l’ı́tem donat.
+/pie <idItem> El Bot ha de tornar una gràfica de formatget de les respostes a l’ı́tem
+donat. — pendent —
+/stats <idItem> El Bot ha de tornar el promig, mı́nim, màxim i desviació estàndard de
+l’ı́tem donat. — pendent —
