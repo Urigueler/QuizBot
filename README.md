@@ -1,2 +1,3 @@
-# pracLP1920a
+# QuizBot
+
 Pràctica d'LP de la FIB
