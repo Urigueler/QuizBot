@@ -181,6 +181,10 @@ Podeu utilitzar lliurament altres llibreries estàndards de Python, però si no 
 
 ## Referències
 
+- Matplotlib. The Matplotlib development team. 2018.
+https://matplotlib.org/
+- NetworkX. NetworkX Developers. 2019.
+https://networkx.github.io/documentation/stable/
 - pickle — Python object serialization. Python Software Foundation. 2019.
 https://docs.python.org/3.6/library/pickle.html
 - Bots de Telegram. Jordi Petit. 2019.
