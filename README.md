@@ -85,11 +85,7 @@ A la gràfica les arestes negres corresponen a la seqüència de preguntes de l'
 
 La vostra tasca consisteix en implementar un Bot de Telegram que constesti
 textualment i gràficament a preguntes relacionades amb les enquestes descrites
-a la secció anterior.
-
-### Intèrpret 
-
-### Gràfiques i report
+a la secció anterior, així com recullir les dades d'enquestes.
 
 ### Comandes del bot
 
@@ -100,13 +96,45 @@ una breu documentació sobre el seu propòsit i ús.
 - ```/author``` el Bot ha d’escriure el nom complet de l’autor del projecte i seu correu
 electrònic oficial de la facultat.
 - ```/quiz <idEnquesta>``` el Bot ha de iniciar un intèrpret similar al de la secció anterior realitzant
-l’enquesta.
+l’enquesta. A la secció següent s'amplia la informació.
 - ```/bar <idPregunta>``` el Bot ha de tornar una gràfica de barres mostrant un diagrama de barres
-de les respostes a la pregunta donada.
+de les respostes a la pregunta donada. A les seccions següents s'amplia la informació.
 - ```/pie <idPregunta>``` el Bot ha de tornar una gràfica de formatget amb el percentatge de les respostes a la pregunta
-donada. 
-- ```/report``` el Bot ha de tornar quelcom tipus taula amb el nombre de respostes obtingudes per cada valor de cada pregunta.
+donada. A les seccions següents s'amplia la informació.
+- ```/report``` el Bot ha de tornar quelcom tipus taula amb el nombre de respostes obtingudes per cada valor de cada pregunta. A les seccions següents s'amplia la informació.
 
+### Intèrpret 
+
+Feu un intèrpret que interactui amb l'usuari, a partir de les dades de graf, en ser activada la comanda ```quiz```. A continuació teniu un exemple d'interacció:
+ ```
+E> Quants adults viuen a casa teva?
+0: zero
+1: un
+2: dos
+3: més de dos
+>> 2
+E> Quants menors vien a casa teva?
+0: zero
+1: un
+2: dos
+3: més de dos
+>> 1
+E> Com vas a la feina majoritàriament?
+1: caminant
+2: en cotxe
+3: en transport públic
+>> 3
+E> Quin mitja de transport utilitzes majoritàriament?
+1: Tren
+2: Bus
+3: Metro
+4: Altres
+>> 4
+E> Gràcies pel teu temps!
+```
+
+
+### Gràfiques i report
 
 ## Llibreries
 
