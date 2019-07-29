@@ -147,6 +147,15 @@ actualitzada en les múltiples execucions del bot.
 
 ## Llibreries
 
+Utilitzeu les llibreries de Python següents:
+
+- `matplotlib` per graficar dades.
+- `networkx` per a manipular grafs.
+- `pickle` per guardar i carregar estructures de dades en binari.
+- `python-telegram-bot` per interactuar amb Telegram.
+
+Podeu utilitzar lliurament altres llibreries estàndards de Python, però si no són estàndards, heu de demanar permís als vostres professors (que segurament no us el donaran).
+
 ## Referències
 
 - pickle — Python object serialization. Python Software Foundation. 2019.
