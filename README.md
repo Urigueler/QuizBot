@@ -79,6 +79,8 @@ A continuació teniu un exemple de com quedaria l'exemple anterior utilitzant la
 
 <center><img src='graf.png' width='600'></center>
 
+A la gràfica les arestes negres corresponen a la seqüència de preguntes de l'enquesta, les verdes a les alternatives i les blaves als items.
+
 ## Telegram
 
 ### Intèrpret 
