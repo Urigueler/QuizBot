@@ -60,3 +60,9 @@ END
 
 ### Gramàtica
 
+Definiu la part lèxica (tokens) i sintàctica (gramàtica). Feu la gramàtica per a
+que ANTLR4 pugui reconèixer-la. La regla inicial de la gramàtica és:
+```
+grammar Enquestes;
+```
+
