@@ -90,23 +90,23 @@ a la secció anterior, així com recullir les dades d'enquestes.
 ### Comandes del bot
 
 El vostre Bot ha d’entendre i contestar correctament les comandes següents:
-- ```/start``` inicia la conversa amb el Bot.
-- ```/help``` el Bot ha de contestar amb una llista de totes les possibles comandes i
+- `/start` inicia la conversa amb el Bot.
+- `/help` el Bot ha de contestar amb una llista de totes les possibles comandes i
 una breu documentació sobre el seu propòsit i ús.
-- ```/author``` el Bot ha d’escriure el nom complet de l’autor del projecte i seu correu
+- `/author` el Bot ha d’escriure el nom complet de l’autor del projecte i seu correu
 electrònic oficial de la facultat.
-- ```/quiz <idEnquesta>``` el Bot ha de iniciar un intèrpret similar al de la secció anterior realitzant
+- `/quiz <idEnquesta>` el Bot ha de iniciar un intèrpret similar al de la secció anterior realitzant
 l’enquesta. A la secció següent s'amplia la informació.
-- ```/bar <idPregunta>``` el Bot ha de tornar una gràfica de barres mostrant un diagrama de barres
+- `/bar <idPregunta>` el Bot ha de tornar una gràfica de barres mostrant un diagrama de barres
 de les respostes a la pregunta donada. A les seccions següents s'amplia la informació.
-- ```/pie <idPregunta>``` el Bot ha de tornar una gràfica de formatget amb el percentatge de les respostes a la pregunta
+- `/pie <idPregunta>` el Bot ha de tornar una gràfica de formatget amb el percentatge de les respostes a la pregunta
 donada. A les seccions següents s'amplia la informació.
-- ```/report``` el Bot ha de tornar quelcom tipus taula amb el nombre de respostes obtingudes per cada valor de cada pregunta. A les seccions següents s'amplia la informació.
+- `/report` el Bot ha de tornar quelcom tipus taula amb el nombre de respostes obtingudes per cada valor de cada pregunta. A les seccions següents s'amplia la informació.
 
 ### Intèrpret 
 
-Feu un intèrpret que interactui amb l'usuari, a partir de les dades de graf, en ser activada la comanda ```quiz```. A continuació teniu un exemple d'interacció:
- ```
+Feu un intèrpret que interactui amb l'usuari, a partir de les dades de graf, en ser activada la comanda `quiz`. A continuació teniu un exemple d'interacció:
+```
 E> Quants adults viuen a casa teva?
 0: zero
 1: un
@@ -132,6 +132,7 @@ E> Quin mitja de transport utilitzes majoritàriament?
 >> 4
 E> Gràcies pel teu temps!
 ```
+A telegram tindria el format següent:
 
 
 ### Gràfiques i report
