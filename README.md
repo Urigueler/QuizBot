@@ -144,7 +144,7 @@ actualitzada en les múltiples execucions del bot.
 
 Si tenim per a la pregunta _P3_ les dades:
 
-*valor* | *contats*
+*valor* | *comptats*
 --- | ---
 1 | 5
 2 | 1
