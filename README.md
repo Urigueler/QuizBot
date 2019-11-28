@@ -193,18 +193,20 @@ https://lliçons.jutge.org/python/telegram.html
 ## Lliurament
 
 Heu de lliurar la vostra pràctica al Racó. Només heu de lliurar un fitxer ZIP
-que, al descomprimir-se generi uns fitxers *.py, un fitxer requirements.txt i un
-fitxer README.md. Res més. Sense directoris. — pendent —
+que, al descomprimir-se generi:
+- un fitxer _requirements.txt_ amb les llibreries que utilitza el vostre projecte
+  - vegeu, per exemple, https://pip.pypa.io/en/stable/user_guide/#requirements-files.
+- un fitxer _README.md_ que el documenti
+  - vegeu, per exemple, https://gist.github.com/PurpleBooth/109311bb0361f32d87a2.
+- una carpeta _cl_ amb el contingut de la part de compiladors
+  - els arxius principals s'han de dir _test.*.py_
+- una carpeta _bot_ amb el contingut de la part del chatbot
+  - l'arxiu principal s'ha de dir _bot.py_
+
 Els vostres fitxers de codi en Python han de seguir les regles d’estı́l PEP8,
 tot i que podeu oblidar les restriccions sobre la llargada màxima de les lı́nies.
 Podeu utilitzar el paquet pep8 o http://pep8online.com/ per assegurar-vos
 que seguiu aquestes regles d’estı́l. L’ús de tabuladors en el codi queda prohibit
 (zero directe).
-
-El projecte ha de contenir un fitxer README.md que el documenti. Vegeu,
-per exemple, https://gist.github.com/PurpleBooth/109311bb0361f32d87a2.
-
-El projecte també ha de contenir un fitxer requirements.txt amb les llibreries
-que utilitza el vostre projecte. Vegeu, per exemple, https://pip.pypa.io/en/stable/user_guide/#requirements-files.
 
 El termini de lliurament és el dijous 9 de gener a les 23:59.
